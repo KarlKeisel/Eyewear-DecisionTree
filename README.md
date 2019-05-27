@@ -1,5 +1,5 @@
 # Eyewear-DecisionTree
-Using scikit learn to build a predictor for my sales geomap project.
+Using scikit learn to build a predictor for my eyewear-saleswebsite project.
 
 
 Hello all!
